@@ -14,7 +14,7 @@ I am currently working on a python / javascript application for OSINT.
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=whatsinmyopsec&show_icons=true&theme=vue-dark&line_height=33.5&count_private=true&hide_border=true&hide=html,css/??" alt="whatsinmyopsec's GitHub Stats" />
     </a>
     <a href="https://github.com/whatsinmyopsec">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=whatsinmyopsec&theme=vue-dark&hide_border=true&hide=html,css/??" />
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=whatsinmyopsec&theme=vue-dark&hide_border=true&langs_count=4&hide=html,css/??" />
     </a>
 </p>
 
